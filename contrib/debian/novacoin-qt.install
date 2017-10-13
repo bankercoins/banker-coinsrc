@@ -1,0 +1,5 @@
+RAJMUDRA-qt usr/bin
+share/pixmaps/RAJMUDRA32.xpm usr/share/pixmaps
+share/pixmaps/RAJMUDRA80.xpm usr/share/pixmaps
+debian/RAJMUDRA-qt.desktop usr/share/applications
+debian/RAJMUDRA-qt.protocol usr/share/kde4/services/
